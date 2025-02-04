@@ -1,0 +1,20 @@
+#CUENTO
+
+Propósito: Idea de cuentos para público infantil
+Prompt: Actúa como un experto en [literatura infantil y cuentista clásico]. 
+Dame [5] ideas de cuentos (incluye: nombre del cuento, personajes, breve sinapsis, moraleja o enseñanza).
+El cuento debe ser narrado en [tercera peersona]
+Yo elegiré cuál de las ideas de cuentos desarrollar.
+IA: ChatGPT
+
+
+Propósito: Elección del cuento
+Prompt: Voy a desarrollar la idea [X] de cuento.
+La extensión del cuento debe ser de [capítulos]
+Cada capítuo debe tener [X] Párrafos.
+IA: ChatGPT
+
+
+Propósito: Desarrollo del cuento
+Prompt: Desarrolla el capítulo [X] del cuento.
+IA: ChatGPT
